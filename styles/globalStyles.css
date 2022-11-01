@@ -46,3 +46,10 @@
   height: 90vh;
   width: 100%;
 }
+
+.page_logo{
+  margin-top: 20px;
+
+  font-size: var(--font-size-3);
+  line-height: 15px;
+}

@@ -4,13 +4,6 @@
     background-color: var(--color-grey-500);
 }
 
-.page_logo{
-    margin-top: 20px;
-
-    font-size: var(--font-size-4);
-    line-height: 15px;
-}
-
 .dropdown-container{
     margin-top: 25px;
 }
