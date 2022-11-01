@@ -9,7 +9,6 @@ function toLogin(){
 
 function toRegister(){
     const registerButton = document.querySelector(".register_button");
-    console.log(registerButton);
 
     registerButton.addEventListener("click", (e)=>{
         e.preventDefault();
@@ -25,4 +24,4 @@ function toHome(){
     })
 }
 
-export { toLogin, toRegister, toHome };
+export { toLogin, toRegister, toHome,};
